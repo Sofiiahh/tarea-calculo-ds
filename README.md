@@ -2,12 +2,12 @@
 
 ## holaa, un resumen de la distribucion
 ### Problema 1 
-- Integrantes: 
+- Integrantes: Agus y Cris
 - Jupyter: el código, ejecutado entero
-- pdf: ese mismo notebook exportado, con el código y sus resultados.
+- pdf: ese mismo notebook exportado, con el código y sus resultados
 
 ### Problema 2 
-- Integrantes: 
+- Integrantes: Vicho y Sofí
 - Jupyter
 - pdf
 
